@@ -49,5 +49,5 @@ The features are Daytime/evening attendance, Displaced, Educational special need
 
 ## Acknowledgement 
 ---
-### [RateItAll](https://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/hepatitis.names)https://archive.ics.uci.edu/ml/machine-learning-databases/hepatitis/hepatitis.names (Hepatitis Datasets)
+### RateItAll (Hepatitis Datasets)
 ### UCI Repository (Students' Dropout and Academic Success Datasets)
